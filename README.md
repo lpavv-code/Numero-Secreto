@@ -3,3 +3,4 @@
 <li>Principiante</li>
 <li>Normal</li>
 <li>Avanzado</li>
+<p>Se desarrolla en consola el juego</p>
